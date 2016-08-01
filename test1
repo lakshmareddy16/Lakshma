@@ -1,2 +1,3 @@
-#!displaing name of app
+#!/bin/bash 
+#displaing name of app
 echo "this is lakshma main"
